@@ -1,0 +1,6 @@
+c:\users\andro\documents\visual studio 2015\Projects\JuegoDeLaVida\JuegoDeLaVida\bin\Debug\JuegoDeLaVida.exe.config
+C:\Users\andro\documents\visual studio 2015\Projects\JuegoDeLaVida\JuegoDeLaVida\bin\Debug\JuegoDeLaVida.exe
+C:\Users\andro\documents\visual studio 2015\Projects\JuegoDeLaVida\JuegoDeLaVida\bin\Debug\JuegoDeLaVida.pdb
+C:\Users\andro\documents\visual studio 2015\Projects\JuegoDeLaVida\JuegoDeLaVida\obj\Debug\JuegoDeLaVida.csprojResolveAssemblyReference.cache
+C:\Users\andro\documents\visual studio 2015\Projects\JuegoDeLaVida\JuegoDeLaVida\obj\Debug\JuegoDeLaVida.exe
+C:\Users\andro\documents\visual studio 2015\Projects\JuegoDeLaVida\JuegoDeLaVida\obj\Debug\JuegoDeLaVida.pdb
